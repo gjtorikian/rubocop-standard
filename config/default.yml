@@ -24,3 +24,6 @@ Layout/LineLength:
 
 Naming/FileName:
   Enabled: false
+
+Style/CommentAnnotation:
+  Enabled: false
