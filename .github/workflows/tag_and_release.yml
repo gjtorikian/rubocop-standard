@@ -1,9 +1,5 @@
 name: Release
 
-permissions:
-  pull-requests: write
-  contents: write
-
 on:
   workflow_dispatch:
   push:
@@ -11,6 +7,14 @@ on:
       - main
     paths:
       - "lib/rubocop-standard/version.rb"
+  pull_request_target:
+    types:
+      - closed
+
+permissions:
+  actions: write
+  contents: write
+  pull-requests: write
 
 jobs:
   ruby:
@@ -21,3 +25,5 @@ jobs:
     with:
       gem_name: rubocop-standard
       version_filepath: lib/rubocop-standard/version.rb
+      prepare: ${{ github.event_name == 'push' }}
+      release: ${{ github.event_name == 'workflow_dispatch' || ((github.event.pull_request.merged == true) && (contains(github.event.pull_request.labels.*.name, 'release'))) }}
