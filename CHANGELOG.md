@@ -1,3 +1,5 @@
+# [v7.3.0] - 21-02-2025
+**Full Changelog**: https://github.com/gjtorikian/rubocop-standard/compare/v7.2.0...v7.3.0
 ## [v7.2.0] - 30-04-2024
 ## What's Changed
 * Enable rubocop-rails-accessibility by @gjtorikian in https://github.com/gjtorikian/rubocop-standard/pull/1
