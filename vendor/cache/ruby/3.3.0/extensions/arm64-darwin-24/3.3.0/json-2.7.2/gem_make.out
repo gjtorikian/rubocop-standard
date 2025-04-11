@@ -1,0 +1,16 @@
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/json-2.7.2/ext/json
+/Users/gjtorikian/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-tpfxhc sitelibdir\=./.gem.20250221-75772-tpfxhc clean
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-tpfxhc sitelibdir\=./.gem.20250221-75772-tpfxhc
+make: Nothing to be done for `all'.
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-tpfxhc sitelibdir\=./.gem.20250221-75772-tpfxhc install
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-tpfxhc sitelibdir\=./.gem.20250221-75772-tpfxhc clean

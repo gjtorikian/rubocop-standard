@@ -1,0 +1,18 @@
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/gjtorikian/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-h001s sitelibdir\=./.gem.20250221-75772-h001s clean
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-h001s sitelibdir\=./.gem.20250221-75772-h001s
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-h001s sitelibdir\=./.gem.20250221-75772-h001s install
+/opt/homebrew/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20250221-75772-h001s/racc
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-h001s sitelibdir\=./.gem.20250221-75772-h001s clean

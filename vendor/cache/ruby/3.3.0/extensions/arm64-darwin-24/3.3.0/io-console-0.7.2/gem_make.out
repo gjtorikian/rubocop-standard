@@ -1,0 +1,27 @@
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/io-console-0.7.2/ext/io/console
+/Users/gjtorikian/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+checking for rb_io_path()... yes
+checking for rb_io_descriptor()... yes
+checking for rb_io_get_write_io()... yes
+checking for rb_io_closed_p()... yes
+checking for rb_io_open_descriptor()... yes
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-eztosg sitelibdir\=./.gem.20250221-75772-eztosg clean
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-eztosg sitelibdir\=./.gem.20250221-75772-eztosg
+compiling console.c
+linking shared-object io/console.bundle
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-eztosg sitelibdir\=./.gem.20250221-75772-eztosg install
+/opt/homebrew/bin/ginstall -c -m 0755 console.bundle ./.gem.20250221-75772-eztosg/io
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20250221-75772-eztosg sitelibdir\=./.gem.20250221-75772-eztosg clean

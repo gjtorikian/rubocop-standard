@@ -1,0 +1,18 @@
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/stringio-3.1.5/ext/stringio
+/Users/gjtorikian/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250222-44761-q6b41a sitelibdir\=./.gem.20250222-44761-q6b41a clean
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250222-44761-q6b41a sitelibdir\=./.gem.20250222-44761-q6b41a
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250222-44761-q6b41a sitelibdir\=./.gem.20250222-44761-q6b41a install
+/opt/homebrew/bin/ginstall -c -m 0755 stringio.bundle ./.gem.20250222-44761-q6b41a
+
+current directory: /Users/gjtorikian/Developer/rubocop-standard/vendor/cache/ruby/3.3.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250222-44761-q6b41a sitelibdir\=./.gem.20250222-44761-q6b41a clean
