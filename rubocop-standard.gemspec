@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors = ["Garen Torikian"]
   s.email = ["gjtorikian@gmail.com"]
   s.summary = "Enhanced RuboCop configurations"
-  s.description = "Enables Shopify’s Ruby Style Guide recommendations (and bundles them with other niceties, like `rubocop-{minitest,performance,rails,rake}`)."
+  s.description = "Enables Shopify's Ruby Style Guide recommendations (and bundles them with other niceties, like `rubocop-{minitest,performance,rails,rake}`)."
   s.homepage = "https://github.com/gjtorikian/rubocop-standard"
   s.license = "MIT"
 
@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
   s.add_dependency("rubocop-rake")
   s.add_dependency("rubocop-shopify")
   s.add_dependency("rubocop-sorbet")
+  s.add_dependency("rubocop-thread_safety")
 
   s.add_development_dependency("rake")
 
