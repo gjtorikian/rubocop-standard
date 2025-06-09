@@ -1,3 +1,5 @@
+# [v7.4.2] - 09-06-2025
+**Full Changelog**: https://github.com/gjtorikian/rubocop-standard/compare/v7.4.1...v7.4.2
 # [v7.4.1] - 09-06-2025
 **Full Changelog**: https://github.com/gjtorikian/rubocop-standard/compare/v7.4.0...v7.4.1
 # [v7.4.0] - 11-04-2025
