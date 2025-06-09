@@ -28,3 +28,7 @@ Naming/FileName:
 
 Style/CommentAnnotation:
   Enabled: false
+
+ThreadSafety/DirChdir:
+  Exclude:
+    - '*.gemspec'
