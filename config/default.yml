@@ -31,4 +31,4 @@ Style/CommentAnnotation:
 
 ThreadSafety/DirChdir:
   Exclude:
-    - '*.gemspec'
+    - '**/*.gemspec'
