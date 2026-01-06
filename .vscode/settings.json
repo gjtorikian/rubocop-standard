@@ -1,8 +1,11 @@
 {
   "[ruby]": {
     "editor.defaultFormatter": "Shopify.ruby-lsp"
-},
-"[markdown]": {
+  },
+  "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-}
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  }
 }
