@@ -1,3 +1,9 @@
+# [v7.4.3] - 06-01-2026
+## What's Changed
+* Support  Ruby 4 by @gjtorikian in https://github.com/gjtorikian/rubocop-standard/pull/9
+
+
+**Full Changelog**: https://github.com/gjtorikian/rubocop-standard/compare/v7.4.2...v7.4.3
 # [v7.4.2] - 09-06-2025
 **Full Changelog**: https://github.com/gjtorikian/rubocop-standard/compare/v7.4.1...v7.4.2
 # [v7.4.1] - 09-06-2025
